@@ -15,14 +15,7 @@
 - **Deep Learning for Scientific Applications**  
 - **Advanced Numerical Methods & Optimization**  
 - **Hybrid AI + Physics Techniques (SciML, JAX, PyTorch)**  
-
-## 👯 I’m looking to collaborate on  
-- **Research projects in AI for Mathematics & Computational Science**  
-- **Machine Learning applications in Fluid Dynamics & Numerical Simulations**  
-
-## 🤔 I’m looking for help with  
-- **Implementing advanced Physics-Informed Neural Networks (PINNs) for complex PDEs**  
-- **Optimizing ML models for large-scale scientific problems**  
+ 
 
 ## 💬 Ask me about  
 - **Mathematical Modeling, Deep Learning & Scientific Computing**  
@@ -47,5 +40,11 @@
 📜 **Google Scholar:** [scholar.google.com/SamerSarkar](#)  
 📧 **Email:** samersarkar@iitm.ac.in  
 🔹 **Ph.D. Researcher in Mathematics at IIT Madras** 
-.
+## 👯 I’m looking to collaborate on  
+- **Research projects in AI for Mathematics & Computational Science**  
+- **Machine Learning applications in Fluid Dynamics & Numerical Simulations**  
+
+## 🤔 I’m looking for help with  
+- **Implementing advanced Physics-Informed Neural Networks (PINNs) for complex PDEs**  
+- **Optimizing ML models for large-scale scientific problems** 
 -->
